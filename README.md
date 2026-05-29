@@ -1,4 +1,4 @@
-# Advanced-Parking-Management-System
+# Smart-Parking-Management-System
 
 
 #HOW TO RUN THE PROJECT
